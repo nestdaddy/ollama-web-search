@@ -28,7 +28,7 @@ python web_agent.py "What happened in AI this week?"
 Pick another model with `OLLAMA_MODEL`, for example `OLLAMA_MODEL=llama3.1 python web_agent.py "..."`.
 
 The search tools use the [NestDaddy API](https://nestdaddy.com/apis), an independent search engine with its own
-index. A free 7-day key (5,000 calls, no card) works. To use another search provider, change only the body of
+index. A free key (1,000 calls a month, no card) works. To use another search provider, change only the body of
 the three tool functions: the loop stays the same.
 
 ## How the loop works
