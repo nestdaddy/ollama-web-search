@@ -53,3 +53,9 @@ python -m unittest discover -s tests -v
 - [NestDaddy MCP](https://nestdaddy.com/mcp): the same tools for Claude, Cursor and VS Code
 
 MIT License.
+
+## Community
+
+Questions, ideas, or something you built? Join **Agent Builders**, our Discord for people building AI agents and MCP servers: daily MCP news, alerts when MCP servers change their tools, and help from our team.
+
+[Join on Discord](https://discord.gg/CXStfSFC3v)
