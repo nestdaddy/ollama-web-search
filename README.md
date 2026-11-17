@@ -1,5 +1,7 @@
 # ollama-web-search
 
+> NestDaddy launched on Product Hunt on 17 Nov 2026. Feedback and reviews welcome: [producthunt.com/products/nestdaddy](https://www.producthunt.com/products/nestdaddy)
+
 Give a local LLM running on [Ollama](https://ollama.com) live web search, news search and page reading,
 in one Python file of about 100 lines.
 
