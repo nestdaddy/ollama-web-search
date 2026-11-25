@@ -113,5 +113,5 @@ def ask(question: str, max_steps: int = 6) -> str:
 if __name__ == "__main__":
     import sys
     if not KEY:
-        sys.exit("Set NESTDADDY_API_KEY first (every plan starts with 7 days free: https://nestdaddy.com/pricing)")
+        sys.exit("Set NESTDADDY_API_KEY first (there is a 7-day free trial: https://nestdaddy.com/pricing)")
     print(ask(" ".join(sys.argv[1:]) or "What happened in AI this week?"))
