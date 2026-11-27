@@ -50,8 +50,8 @@ python -m unittest discover -s tests -v
 
 ## More
 
-- [nestdaddy-examples](https://github.com/nestdaddy/nestdaddy-examples): Python, JavaScript, curl and MCP examples
-- [news-digest-bot](https://github.com/nestdaddy/news-digest-bot): a daily news digest to Telegram, Slack or email
+- [nestdaddy-examples](https://github.com/nestdaddy-ai/nestdaddy-examples): Python, JavaScript, curl and MCP examples
+- [news-digest-bot](https://github.com/nestdaddy-ai/news-digest-bot): a daily news digest to Telegram, Slack or email
 - [NestDaddy MCP](https://nestdaddy.com/mcp): the same tools for Claude, Cursor and VS Code
 
 MIT License.
